@@ -1,0 +1,8 @@
+{
+  "name": "HearMe.gg",
+  "description": "Safe & Anonymous Peer Support. Military-grade P2P encryption, anonymous guest access, and real-time connection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
